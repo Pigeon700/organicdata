@@ -7,9 +7,9 @@ SITENAME = u'Organic Data'
 SITEURL = 'http://rajkirangaddati.com'
 
 PATH = 'content'
-THEME = 'simple'
+THEME = 'static'
 TIMEZONE = 'US/Eastern'
-OUTPUT_PATH = '/home/rajgad1/rajkirangaddati.com'
+OUTPUT_PATH = '/home/rajgad1/rajkirangaddati.com/blog'
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
