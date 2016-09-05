@@ -9,7 +9,7 @@ SITEURL = ''
 PATH = 'content'
 THEME = 'blue-penguin'
 TIMEZONE = 'US/Eastern'
-
+OUTPUT_PATH = '/home/rajgad1/rajkirangaddati.com/blog'
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
