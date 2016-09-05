@@ -7,7 +7,7 @@ SITENAME = u'Organic Data'
 SITEURL = 'http://rajkirangaddati.com/blog'
 
 PATH = 'content'
-THEME = '/home/rajgad1/blue-penguin'
+THEME = '/home/rajgad1/pelican-clean-blog'
 TIMEZONE = 'US/Eastern'
 OUTPUT_PATH = '/home/rajgad1/rajkirangaddati.com/blog'
 DEFAULT_LANG = u'en'
