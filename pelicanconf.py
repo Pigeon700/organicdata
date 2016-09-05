@@ -11,6 +11,8 @@ THEME = '/home/rajgad1/pelican-clean-blog'
 TIMEZONE = 'US/Eastern'
 OUTPUT_PATH = '/home/rajgad1/rajkirangaddati.com/blog'
 DEFAULT_LANG = u'en'
+PLUGIN_PATH = '/home/rajgad1/pelican-plugins'
+PLUGINS = ['tipue_search']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -29,6 +31,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
+DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'search'))
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
