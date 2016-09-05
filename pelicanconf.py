@@ -9,7 +9,7 @@ SITEURL = 'http://rajkirangaddati.com'
 PATH = 'content'
 THEME = 'simple'
 TIMEZONE = 'US/Eastern'
-OUTPUT_PATH = '/home/rajgad1/rajkirangaddati.com/blog'
+OUTPUT_PATH = '/home/rajgad1/rajkirangaddati.com'
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
