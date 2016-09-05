@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Rajkiran Gaddati'
 SITENAME = u'Organic Data'
-SITEURL = ''
+SITEURL = 'http://rajkirangaddati.com'
 
 PATH = 'content'
 THEME = blue-penguin
