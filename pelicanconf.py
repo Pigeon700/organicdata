@@ -7,7 +7,7 @@ SITENAME = u'Organic Data'
 SITEURL = ''
 
 PATH = 'content'
-
+THEME = 'blue-penguin'
 TIMEZONE = 'US/Eastern'
 
 DEFAULT_LANG = u'en'
