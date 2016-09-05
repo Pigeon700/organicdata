@@ -1,0 +1,12 @@
+My super title
+##############
+
+:date: 2010-10-03 10:20
+:modified: 2010-10-04 18:40
+:tags: thats, awesome
+:category: yeah
+:slug: my-super-post3
+:authors: Alexis Metaireau, Conan Doyle
+:summary: Short version for index and feeds
+
+sadasfasga safdfgsf This is the third of many other gibberish posts!
