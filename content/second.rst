@@ -5,7 +5,7 @@ My super title
 :modified: 2010-10-04 18:40
 :tags: thats, awesome
 :category: yeah
-:slug: my-super-post
+:slug: my-super-post2
 :authors: Alexis Metaireau, Conan Doyle
 :summary: Short version for index and feeds
 
